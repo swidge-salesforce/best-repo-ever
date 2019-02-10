@@ -1,4 +1,5 @@
 # best-repo-ever
 Dev &amp; Lifecycle PA Badge
 
-add new-branch-1
+This is change for new-brnach-2
+
